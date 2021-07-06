@@ -1,4 +1,4 @@
-# Project Management System using Java and MySQL 
+# Project Management System with Java and MySQL 
 
 ## About
 
